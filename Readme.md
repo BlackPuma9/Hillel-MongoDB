@@ -1,5 +1,7 @@
 # HW23. MongoDB
 
+**!!Important: to run the project run docker-compose up and after node server.js**
+
 🔹 Завдання 1: Налаштування MongoDB
 1. Запусти MongoDB Compass та створіть базу shopDB.
 2. Створи колекцію products.
